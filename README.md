@@ -1,14 +1,25 @@
-# Hi there 👋
+###  Hey I'm Mashrif Shaharyar Mahim
+#### Building scalable machine learning models and smart applications
+![Building scalable machine learning models and smart applications](https://media.licdn.com/dms/image/v2/D5616AQHWZ47eNu4jFQ/profile-displaybackgroundimage-shrink_350_1400/B56ZdQlqU_GsAY-/0/1749403740701?e=1755129600&v=beta&t=TiLK5yEfGx7jm-r4badlr5eF2esYVir8Ni_y7YaSlxs)
 
-mashrifmahim443/mashrifmahim443** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🤖 Generative AI (LLMs, prompt engineering)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🧠 Machine Learning & Deep Learning concepts
+
+🗣️ Natural Language Processing (NLP)
+
+📊 Data Science & Exploratory Data Analysis
+
+🐍 Python, scikit-learn, Pandas, NumPy
+
+📋 Jupyter Notebook, Google Colab
+
+
+Skills: Data Analytics / Data Visualization / AI / ML / Python
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
